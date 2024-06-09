@@ -64,8 +64,7 @@ docker ps -a
 ```
 12. CREAR CANAL DE COMUNICACIÓN
     1. Instalacion de Vim
-    2. \/\/modificar channelID
-    3. 
+    2. Modificar channelID
 ```warp-runnable-command
 
 vi scripts/createChannel.sh
@@ -74,5 +73,4 @@ vi scripts/createChannel.sh
 
 sudo docker ps -a
 ```
-13. 
-# 
+
